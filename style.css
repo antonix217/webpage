@@ -4,6 +4,7 @@
 
 .fifth-container p {
     width: 15em;
+   margin:40px;
 }
 
 /* ========================================
@@ -475,7 +476,7 @@ body {
     border-radius: 11px;
     position: absolute;
     top: 45%;
-    right: 20px;
+    right: 0px;
     transform: translateY(-50%);
     z-index: 1;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
@@ -1104,7 +1105,7 @@ body {
         width: 200px;
         height: 200px;
         right: 50%;
-        top: 50%;
+        top: 65%;
         transform: translate(50%, -50%);
         z-index: 1; /* Dietro l'immagine */
     }
@@ -1113,7 +1114,7 @@ body {
         width: 250px;
         height: 250px;
         right: 50%;
-        top: 50%;
+        top: 65%;
         transform: translate(50%, -50%);
         z-index: 1; /* Dietro l'immagine */
     }
